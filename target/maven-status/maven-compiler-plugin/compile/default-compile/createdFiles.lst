@@ -1,0 +1,5 @@
+com\mycompany\mensajes_app\Conection.class
+com\mycompany\mensajes_app\Mensaje.class
+com\mycompany\mensajes_app\MensajeDAO.class
+com\mycompany\mensajes_app\main.class
+com\mycompany\mensajes_app\MensajeService.class
